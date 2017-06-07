@@ -1,0 +1,22 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "description": "the new framework for portable agile mobile devops extreme programming UIs with user experiences",
+  "main": "hello.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashertrockman/travis-test.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "no",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ashertrockman/travis-test/issues"
+  },
+  "homepage": "https://github.com/ashertrockman/travis-test#readme"
+}
