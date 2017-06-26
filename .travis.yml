@@ -2,5 +2,7 @@ language: node_js
 node_js:
     - "7"
     - "6"
+script:
+    - exit 12
 after_script:
     - exit 11
