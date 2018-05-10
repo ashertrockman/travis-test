@@ -6,6 +6,9 @@
   "scripts": {
     "test": "true"
   },
+  "dependencies": {
+	"async": "2.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ashertrockman/travis-test.git"
